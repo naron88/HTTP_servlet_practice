@@ -1,4 +1,4 @@
-package com.practice.servletpractice.servlet.response.header;
+package com.practice.servletpractice.servlet.basic.response.header;
 
 import jakarta.servlet.ServletException;
 import jakarta.servlet.annotation.WebServlet;

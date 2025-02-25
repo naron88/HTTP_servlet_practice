@@ -1,4 +1,4 @@
-package com.practice.servletpractice.servlet.request.body;
+package com.practice.servletpractice.servlet.basic.request.body;
 
 import jakarta.servlet.ServletException;
 import jakarta.servlet.ServletInputStream;

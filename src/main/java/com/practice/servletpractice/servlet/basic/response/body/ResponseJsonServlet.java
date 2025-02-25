@@ -1,4 +1,4 @@
-package com.practice.servletpractice.servlet.response.body;
+package com.practice.servletpractice.servlet.basic.response.body;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
 import com.practice.servletpractice.domain.HelloData;

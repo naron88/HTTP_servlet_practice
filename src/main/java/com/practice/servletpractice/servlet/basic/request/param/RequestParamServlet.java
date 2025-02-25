@@ -1,4 +1,4 @@
-package com.practice.servletpractice.servlet.request.param;
+package com.practice.servletpractice.servlet.basic.request.param;
 
 import jakarta.servlet.ServletException;
 import jakarta.servlet.annotation.WebServlet;

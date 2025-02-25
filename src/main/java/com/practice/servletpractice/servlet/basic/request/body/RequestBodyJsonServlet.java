@@ -1,4 +1,4 @@
-package com.practice.servletpractice.servlet.request.body;
+package com.practice.servletpractice.servlet.basic.request.body;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
 import com.practice.servletpractice.domain.HelloData;
@@ -12,7 +12,7 @@ import java.io.IOException;
 import java.nio.charset.StandardCharsets;
 import org.springframework.util.StreamUtils;
 
-//http://localhost:8080/request-body-json
+//http://localhost:8080/request-bodyjson
 // JSON 형식 전송
 // content-type: application/json
 // message body: {"username": "hello", "age": 20}
